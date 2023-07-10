@@ -1,0 +1,13 @@
+C:\Users\fabiana.barreto\source\repos\CatAsAService\bin\Debug\CatAsAService.exe.config
+C:\Users\fabiana.barreto\source\repos\CatAsAService\bin\Debug\CatAsAService.exe
+C:\Users\fabiana.barreto\source\repos\CatAsAService\bin\Debug\CatAsAService.pdb
+C:\Users\fabiana.barreto\source\repos\CatAsAService\obj\Debug\CatAsAService.csproj.AssemblyReference.cache
+C:\Users\fabiana.barreto\source\repos\CatAsAService\obj\Debug\CatAsAService.csproj.SuggestedBindingRedirects.cache
+C:\Users\fabiana.barreto\source\repos\CatAsAService\obj\Debug\CatAsAService.landingPage.resources
+C:\Users\fabiana.barreto\source\repos\CatAsAService\obj\Debug\CatAsAService.Properties.Resources.resources
+C:\Users\fabiana.barreto\source\repos\CatAsAService\obj\Debug\CatAsAService.csproj.GenerateResource.cache
+C:\Users\fabiana.barreto\source\repos\CatAsAService\obj\Debug\CatAsAService.csproj.CoreCompileInputs.cache
+C:\Users\fabiana.barreto\source\repos\CatAsAService\obj\Debug\CatAsAService.exe
+C:\Users\fabiana.barreto\source\repos\CatAsAService\obj\Debug\CatAsAService.pdb
+C:\Users\fabiana.barreto\source\repos\CatAsAService\obj\Debug\CatAsAService.Favoritos.resources
+C:\Users\fabiana.barreto\source\repos\CatAsAService\obj\Debug\CatAsAService.BuscarRacas.resources
